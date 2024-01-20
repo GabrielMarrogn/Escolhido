@@ -1,0 +1,2 @@
+O objetivo do programa é mostra qual aluno deve ser escolhido, tendo em base uma nota.
+O programa recebe 3 entradas, a primeira serve para informar quanto alunos seram inserido, a segunda mostra o numero do aluno e a terceira a nota do aluno. O aluno que tiver a maior nota sera testado, caso ele tenha uma nota maior que 8 ele sera escolhido,e seu numero sera printado,caso ele possua uma nota menor que 8 sera exibido a mensagem "Minimum note not reached"
